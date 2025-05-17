@@ -1,8 +1,8 @@
 ---
-name: 📖 Documentation Issue
-description: Report an issue or suggest an improvement for the documentation
+name: "\U0001F4D6 Documentation Issue"
+about: Report an issue or suggest an improvement for the documentation
 title: "[DOCS] Brief description of the documentation issue"
-labels: ["documentation", "needs-triage"]
+labels: documentation
 assignees: ''
 
 ---

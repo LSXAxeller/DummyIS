@@ -1,8 +1,8 @@
 ---
-name: 💻 Platform Specific Issue
-description: Report an issue that only occurs on specific platforms or environments
+name: "\U0001F4BB Platform Specific Issue"
+about: Report an issue that only occurs on specific platforms or environments
 title: "[PLAT] Brief description of the platform-specific issue"
-labels: ["platform", "bug", "needs-triage"]
+labels: bug
 assignees: ''
 
 ---

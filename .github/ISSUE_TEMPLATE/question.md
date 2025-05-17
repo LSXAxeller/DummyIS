@@ -1,8 +1,8 @@
 ---
-name: 🤔 Question
-description: Ask a question about SoundFlow
+name: "\U0001F914 Question"
+about: Ask a question about SoundFlow
 title: "[QSTN] Your question in a few words"
-labels: ["question", "needs-triage"]
+labels: question
 assignees: ''
 
 ---

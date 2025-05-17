@@ -1,8 +1,8 @@
 ---
-name: 🐛 Bug Report
-description: Create a report to help us improve SoundFlow
+name: "\U0001F41B Bug Report"
+about: Create a report to help us improve SoundFlow
 title: "[BUG] Brief description of the bug"
-labels: ["bug", "needs-triage"]
+labels: bug, documentation
 assignees: ''
 
 ---

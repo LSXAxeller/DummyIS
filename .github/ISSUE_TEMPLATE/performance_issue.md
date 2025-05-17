@@ -1,8 +1,8 @@
 ---
-name: ⏱️ Performance Issue
-description: Report a performance problem with SoundFlow
+name: "⏱️ Performance Issue"
+about: Report a performance problem with SoundFlow
 title: "[PERF] Brief description of the performance issue"
-labels: ["performance", "needs-triage"]
+labels: ''
 assignees: ''
 
 ---

@@ -1,8 +1,8 @@
 ---
-name: ✨ Feature Request
-description: Suggest an idea or enhancement for SoundFlow
+name: "✨ Feature Request"
+about: Suggest an idea or enhancement for SoundFlow
 title: "[FEAT] Brief description of the feature"
-labels: ["enhancement", "feature-request", "needs-triage"]
+labels: enhancement
 assignees: ''
 
 ---
